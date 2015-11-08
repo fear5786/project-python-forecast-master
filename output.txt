@@ -1,0 +1,21 @@
+DAY: 9 November
+[('Partly Cloudy', 3), ('Mostly Cloudy', 3), ('Light Rain', 12), ('Drizzle', 6)]
+Light rain starting in the morning.
+DAY: 10 November
+[('Partly Cloudy', 12), ('Mostly Cloudy', 5), ('Light Rain', 5), ('Drizzle', 2)]
+Light rain overnight and in the evening.
+DAY: 11 November
+[('Partly Cloudy', 10), ('Mostly Cloudy', 4), ('Light Rain', 10)]
+Light rain until morning.
+DAY: 12 November
+[('Partly Cloudy', 20), ('Drizzle', 4)]
+Drizzle in the evening.
+DAY: 13 November
+[('Partly Cloudy', 19), ('Mostly Cloudy', 5)]
+Partly cloudy throughout the day.
+DAY: 14 November
+[('Partly Cloudy', 21), ('Mostly Cloudy', 3)]
+Partly cloudy throughout the day.
+DAY: 15 November
+[('Partly Cloudy', 13), ('Mostly Cloudy', 8), ('Light Rain', 2), ('Drizzle', 1)]
+Light rain starting in the evening.
