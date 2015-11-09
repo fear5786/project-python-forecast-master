@@ -46,7 +46,8 @@ def test():
     day = time.day
     the_dict = dict()
     the_list = list()
-    for i in range(7):
+    #number of the day needs
+    for i in range(2):
         forecast2 = forecastio.load_forecast(api_key, lat, lng, time=time)
         by_hour2 = forecast2.hourly()
         print("DAY:",day,time.strftime("%B"), file=myfile)
