@@ -1,0 +1,1 @@
+C:\Python34\;C:\Python34\Libsite-packages;C:\Python34\Scripts;
